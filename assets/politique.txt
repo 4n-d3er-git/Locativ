@@ -1,0 +1,330 @@
+politique de confidentialit¨¦  
+==============
+
+Derni¨¨re mise ¨¤ jour : 24 novembre 2023
+
+Cette politique de confidentialit¨¦ d¨¦crit nos politiques et proc¨¦dures en mati¨¨re de collecte,
+utilisation et divulgation de vos informations lorsque vous utilisez le service et vous informe
+sur vos droits ¨¤ la vie priv¨¦e et sur la mani¨¨re dont la loi vous prot¨¨ge.
+
+Nous utilisons vos donn¨¦es personnelles pour fournir et am¨¦liorer le service. En utilisant le
+Service, vous acceptez la collecte et l'utilisation des informations conform¨¦ment ¨¤
+cette politique de confidentialit¨¦. Cette politique de confidentialit¨¦ a ¨¦t¨¦ cr¨¦¨¦e avec l'aide de
+[G¨¦n¨¦rateur de politique de confidentialit¨¦](https://www.privacypolicies.com/privacy-policy-
+G¨¦n¨¦rateur/).
+
+Interpr¨¦tation et d¨¦finitions  
+-------------------------------
+
+Interpr¨¦tation  
+~~~~~~~~~~~~~~
+
+Les mots dont la lettre initiale est en majuscule ont des significations d¨¦finies
+dans les conditions suivantes. Les d¨¦finitions suivantes auront la m¨ºme
+sens, qu¡¯ils apparaissent au singulier ou au pluriel.
+
+D¨¦finitions  
+~~~~~~~~~~~
+
+Aux fins de cette politique de confidentialit¨¦ :
+
+  * Compte d¨¦signe un compte unique cr¨¦¨¦ pour vous permettre d'acc¨¦der ¨¤ notre service ou
+    parties de notre Service.
+
+  * Filiale d¨¦signe une entit¨¦ qui contr?le, est contr?l¨¦e par ou est sous
+    contr?le commun avec une partie, o¨´ ? contr?le ? d¨¦signe la propri¨¦t¨¦ de 50 % ou
+    plus d'actions, de participations ou d'autres titres donnant droit au vote
+    pour l'¨¦lection des administrateurs ou de toute autre autorit¨¦ de gestion.
+
+  * L'application fait r¨¦f¨¦rence ¨¤ Mon Kolo, le logiciel fourni par le
+    Entreprise.
+
+  * Soci¨¦t¨¦ (d¨¦sign¨¦e par ? la Soci¨¦t¨¦ ?, ? Nous ?, ? Notre ? ou ? Notre ? dans le pr¨¦sent
+    Accord) fait r¨¦f¨¦rence ¨¤ Mon Kolo.
+
+  * Le pays fait r¨¦f¨¦rence ¨¤ : Guin¨¦e
+
+  * Appareil d¨¦signe tout appareil pouvant acc¨¦der au Service tel qu'un ordinateur, un
+    t¨¦l¨¦phone portable ou une tablette num¨¦rique.
+
+  * Les donn¨¦es personnelles sont toute information relative ¨¤ une personne identifi¨¦e ou
+    individu identifiable.
+
+  * Le Service fait r¨¦f¨¦rence ¨¤ l'Application.
+
+  * Prestataire d¨¦signe toute personne physique ou morale qui traite les donn¨¦es
+    au nom de la compagnie. Il fait r¨¦f¨¦rence ¨¤ des soci¨¦t¨¦s tierces ou
+    les personnes employ¨¦es par la Soci¨¦t¨¦ pour faciliter le Service, pour fournir
+    le Service pour le compte de la Soci¨¦t¨¦, pour effectuer des services li¨¦s au
+    Service ou pour aider la Soci¨¦t¨¦ ¨¤ analyser la mani¨¨re dont le Service est utilis¨¦.
+
+  * Les donn¨¦es d'utilisation font r¨¦f¨¦rence aux donn¨¦es collect¨¦es automatiquement, soit g¨¦n¨¦r¨¦es par le
+    l'utilisation du Service ou de l'infrastructure du Service elle-m¨ºme (par exemple,
+    la dur¨¦e d'une visite de page).
+
+  * Vous d¨¦signez la personne acc¨¦dant ou utilisant le Service, ou l'entreprise,
+    ou toute autre entit¨¦ juridique au nom de laquelle cette personne acc¨¨de ou
+    en utilisant le Service, le cas ¨¦ch¨¦ant.
+
+
+Collecte et utilisation de vos donn¨¦es personnelles  
+---------------------------------------
+
+Types de donn¨¦es collect¨¦es  
+~~~~~~~~~~~~~~~~~~~~~~
+
+Donn¨¦es personnelles  
+*************
+
+Lors de l'utilisation de notre service, nous pouvons vous demander de nous fournir certaines informations personnelles
+informations identifiables qui peuvent ¨ºtre utilis¨¦es pour vous contacter ou vous identifier.
+Les informations personnelles identifiables peuvent inclure, sans s¡¯y limiter :
+
+  * Adresse e-mail
+
+  * Pr¨¦nom et nom
+
+  * Num¨¦ro de t¨¦l¨¦phone
+
+  * Adresse, ?tat, Province, Code postal, Ville
+
+  * Des donn¨¦es d'utilisation
+
+
+Des donn¨¦es d'utilisation  
+**********
+
+Les donn¨¦es d'utilisation sont collect¨¦es automatiquement lors de l'utilisation du service.
+
+Les donn¨¦es d'utilisation peuvent inclure des informations telles que le protocole Internet de votre appareil
+adresse (par exemple adresse IP), type de navigateur, version du navigateur, les pages de notre
+Service que vous visitez, l'heure et la date de votre visite, le temps pass¨¦ sur
+ces pages, les identifiants uniques de l'appareil et d'autres donn¨¦es de diagnostic.
+
+Lorsque vous acc¨¦dez au Service via ou via un appareil mobile, nous pouvons collecter
+certaines informations automatiquement, y compris, mais sans s'y limiter, le type de
+l'appareil mobile que vous utilisez, l'identifiant unique de votre appareil mobile, l'adresse IP de votre
+appareil mobile, votre syst¨¨me d'exploitation mobile, le type d'Internet mobile
+navigateur que vous utilisez, les identifiants uniques de l'appareil et d'autres donn¨¦es de diagnostic.
+
+Nous pouvons ¨¦galement collecter des informations que votre navigateur envoie chaque fois que vous visitez notre
+Service ou lorsque vous acc¨¦dez au Service par ou via un appareil mobile.
+
+Informations collect¨¦es lors de l'utilisation de l'application  
+*************************************************
+
+Lors de l'utilisation de notre application, afin de fournir des fonctionnalit¨¦s de notre application,
+Nous pouvons collecter, avec votre autorisation pr¨¦alable :
+
+  * Images et autres informations provenant de l'appareil photo et de la phototh¨¨que de votre appareil
+
+Nous utilisons ces informations pour fournir des fonctionnalit¨¦s de notre service, pour am¨¦liorer et
+personnaliser notre service. Les informations peuvent ¨ºtre t¨¦l¨¦charg¨¦es sur le site de la Soci¨¦t¨¦
+serveurs et/ou le serveur d'un fournisseur de services ou il peut ¨ºtre simplement stock¨¦ sur votre
+appareil.
+
+Vous pouvez activer ou d¨¦sactiver l'acc¨¨s ¨¤ ces informations ¨¤ tout moment, via Votre
+R¨¦glages de l'appareil.
+
+Utilisation de vos donn¨¦es personnelles  
+~~~~~~~~~~~~~~~~~~~~~~~~
+
+La Soci¨¦t¨¦ peut utiliser les Donn¨¦es Personnelles aux fins suivantes :
+
+  * Pour fournir et maintenir notre service, y compris pour surveiller l'utilisation de
+    notre service.
+
+  * Pour g¨¦rer Votre Compte : pour g¨¦rer Votre inscription en tant qu'utilisateur du
+    Service. Les Donn¨¦es Personnelles que Vous fournissez peuvent Vous donner acc¨¨s ¨¤ diff¨¦rents
+    fonctionnalit¨¦s du Service qui sont ¨¤ votre disposition en tant que membre enregistr¨¦
+    utilisateur.
+
+  * Pour l'ex¨¦cution d'un contrat : l'¨¦laboration, le respect et
+    ex¨¦cution du contrat d'achat des produits, articles ou services
+    Vous avez achet¨¦ ou conclu tout autre contrat avec nous via le service.
+
+  * Pour Vous contacter : Pour Vous contacter par email, appels t¨¦l¨¦phoniques, SMS, ou autre
+    formes ¨¦quivalentes de communication ¨¦lectronique, comme un t¨¦l¨¦phone mobile
+    notifications push de l'application concernant les mises ¨¤ jour ou les informations
+    communications li¨¦es aux fonctionnalit¨¦s, aux produits ou aux contrats
+    services, y compris les mises ¨¤ jour de s¨¦curit¨¦, lorsque cela est n¨¦cessaire ou raisonnable pour
+    leur mise en ?uvre.
+
+  * Pour vous fournir des actualit¨¦s, des offres sp¨¦ciales et des informations g¨¦n¨¦rales sur
+    d'autres biens, services et ¨¦v¨¦nements que nous proposons et similaires ¨¤ ceux
+    que vous avez d¨¦j¨¤ achet¨¦ ou sur lequel vous avez demand¨¦ des renseignements, sauf si vous avez choisi
+    de ne pas recevoir de telles informations.
+
+  * Pour g¨¦rer vos demandes : pour r¨¦pondre et g¨¦rer vos demandes aupr¨¨s de nous.
+
+  * Pour les transferts d'entreprise : nous pouvons utiliser vos informations pour ¨¦valuer ou mener
+    une fusion, une cession, une restructuration, une r¨¦organisation, une dissolution ou
+    autre vente ou transfert de tout ou partie de nos actifs, que ce soit dans le cadre d'une
+    ou dans le cadre d¡¯une faillite, d¡¯une liquidation ou d¡¯une proc¨¦dure similaire,
+    quelles donn¨¦es personnelles que nous d¨¦tenons sur les utilisateurs de nos services font partie des actifs
+    transf¨¦r¨¦.
+
+  * ? d'autres fins : nous pouvons utiliser vos informations ¨¤ d'autres fins, telles que
+    comme l'analyse des donn¨¦es, l'identification des tendances d'utilisation, la d¨¦termination de l'efficacit¨¦
+    de nos campagnes promotionnelles et pour ¨¦valuer et am¨¦liorer notre Service,
+    produits, services, marketing et votre exp¨¦rience.
+
+
+Nous pouvons partager vos informations personnelles dans les situations suivantes :
+
+  * Avec les fournisseurs de services : nous pouvons partager vos informations personnelles avec
+    Les prestataires de services pour surveiller et analyser l¡¯utilisation de notre service, pour
+    vous contacter.
+  *Pour les transferts d'entreprise : nous pouvons partager ou transf¨¦rer vos informations personnelles
+    dans le cadre de, ou pendant les n¨¦gociations de, toute fusion, vente de la Soci¨¦t¨¦
+    actifs, financement ou acquisition de tout ou partie de notre entreprise pour
+    une autre compagnie.
+  * Avec nos affili¨¦s : nous pouvons partager vos informations avec nos affili¨¦s, dans
+    auquel cas nous demanderons ¨¤ ces affili¨¦s de respecter cette politique de confidentialit¨¦.
+    Les soci¨¦t¨¦s affili¨¦es comprennent notre soci¨¦t¨¦ m¨¨re et toutes autres filiales, communes
+    des partenaires de capital-risque ou d'autres soci¨¦t¨¦s que nous contr?lons ou qui sont sous
+    contr?le commun avec Nous.
+  * Avec des partenaires commerciaux : nous pouvons partager vos informations avec notre entreprise
+    partenaires pour vous proposer certains produits, services ou promotions.
+  * Avec d'autres utilisateurs : lorsque Vous partagez des informations personnelles ou autrement
+    interagir dans les espaces publics avec d¡¯autres utilisateurs, ces informations peuvent ¨ºtre
+    consult¨¦ par tous les utilisateurs et peut ¨ºtre distribu¨¦ publiquement ¨¤ l¡¯ext¨¦rieur.
+  * Avec votre consentement : Nous pouvons divulguer vos informations personnelles ¨¤ tout moment
+    ¨¤ d¡¯autres fins avec votre consentement.
+
+Conservation de vos donn¨¦es personnelles  
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+La Soci¨¦t¨¦ conservera vos donn¨¦es personnelles uniquement aussi longtemps que n¨¦cessaire
+aux fins ¨¦nonc¨¦es dans la pr¨¦sente politique de confidentialit¨¦. Nous conserverons et utiliserons votre
+Donn¨¦es personnelles dans la mesure n¨¦cessaire pour respecter nos obligations l¨¦gales
+(par exemple, si nous sommes tenus de conserver vos donn¨¦es pour nous conformer aux
+lois), r¨¦soudre les litiges et appliquer nos accords et politiques juridiques.
+
+La Soci¨¦t¨¦ conservera ¨¦galement les donn¨¦es d'utilisation ¨¤ des fins d'analyse interne. Usage
+Les donn¨¦es sont g¨¦n¨¦ralement conserv¨¦es pour une dur¨¦e plus courte, sauf lorsque ces donn¨¦es
+est utilis¨¦ pour renforcer la s¨¦curit¨¦ ou pour am¨¦liorer la fonctionnalit¨¦ de Notre
+Service, ou Nous sommes l¨¦galement tenus de conserver ces donn¨¦es plus longtemps
+p¨¦riodes.
+
+Transfert de vos donn¨¦es personnelles  
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Vos informations, y compris vos donn¨¦es personnelles, sont trait¨¦es au si¨¨ge de la Soci¨¦t¨¦.
+bureaux d'exploitation et dans tout autre lieu o¨´ les parties impliqu¨¦es dans le
+traitement sont localis¨¦s. Cela signifie que ces informations peuvent ¨ºtre transf¨¦r¨¦es ¨¤...
+et conserv¨¦s sur des ordinateurs situ¨¦s en dehors de votre ¨¦tat, province ou pays.
+ou autre juridiction gouvernementale o¨´ les lois sur la protection des donn¨¦es peuvent diff¨¦rer
+que ceux de Votre juridiction.
+
+Votre consentement ¨¤ cette politique de confidentialit¨¦ suivi de votre soumission de cette
+Ces informations repr¨¦sentent votre accord sur ce transfert.
+
+La Soci¨¦t¨¦ prendra toutes les mesures raisonnablement n¨¦cessaires pour garantir que Vos donn¨¦es
+est trait¨¦ de mani¨¨re s¨¦curis¨¦e et conform¨¦ment ¨¤ la pr¨¦sente politique de confidentialit¨¦ et aucun transfert
+de vos donn¨¦es personnelles aura lieu vers une organisation ou un pays ¨¤ moins que
+des contr?les ad¨¦quats sont en place, y compris la s¨¦curit¨¦ de vos donn¨¦es et
+d'autres informations personnelles.
+
+Supprimez vos donn¨¦es personnelles  
+~~~~~~~~~~~~~~~~~~~~~~~~
+
+Vous avez le droit de supprimer ou de demander que nous vous aidions ¨¤ supprimer le
+Donn¨¦es personnelles que nous avons collect¨¦es ¨¤ votre sujet.
+
+Notre Service peut vous donner la possibilit¨¦ de supprimer certaines informations vous concernant
+au sein du Service.
+
+Vous pouvez mettre ¨¤ jour, modifier ou supprimer vos informations ¨¤ tout moment en vous connectant ¨¤
+Votre compte, si vous en avez un, et en visitant la section des param¨¨tres du compte qui
+vous permet de g¨¦rer vos informations personnelles. Vous pouvez ¨¦galement nous contacter pour
+demander l¡¯acc¨¨s, corriger ou supprimer toute information personnelle que vous avez
+qui nous ont ¨¦t¨¦ fournis.
+
+Veuillez noter cependant que nous pouvons ¨ºtre amen¨¦s ¨¤ conserver certaines informations lorsque nous
+avoir une obligation l¨¦gale ou une base l¨¦gale pour le faire.
+
+Divulgation de vos donn¨¦es personnelles  
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Transactions commerciales  
+********************
+
+Si la Soci¨¦t¨¦ est impliqu¨¦e dans une fusion, une acquisition ou une vente d'actifs, votre
+Les donn¨¦es personnelles peuvent ¨ºtre transf¨¦r¨¦es. Nous vous fournirons un pr¨¦avis avant votre
+Les donn¨¦es sont transf¨¦r¨¦es et sont soumises ¨¤ une politique de confidentialit¨¦ diff¨¦rente.
+
+Forces de l'ordre  
+**************
+
+Dans certaines circonstances, la Soci¨¦t¨¦ peut ¨ºtre tenue de divulguer votre
+Donn¨¦es personnelles si la loi l¡¯exige ou en r¨¦ponse ¨¤ des demandes valables de
+autorit¨¦s publiques (par exemple un tribunal ou un organisme gouvernemental).
+
+Autres exigences l¨¦gales  
+***********************
+
+La Soci¨¦t¨¦ peut divulguer vos donn¨¦es personnelles en croyant de bonne foi que ces
+une action est n¨¦cessaire pour :
+
+  * Se conformer ¨¤ une obligation l¨¦gale
+  * Prot¨¦ger et d¨¦fendre les droits ou les biens de la Soci¨¦t¨¦
+  * Pr¨¦venir ou enqu¨ºter sur d'¨¦ventuels actes r¨¦pr¨¦hensibles en relation avec le Service
+  * Prot¨¦ger la s¨¦curit¨¦ personnelle des Utilisateurs du Service ou du public
+  * Prot¨¦ger contre la responsabilit¨¦ l¨¦gale
+
+S¨¦curit¨¦ de vos donn¨¦es personnelles  
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+La s¨¦curit¨¦ de vos donn¨¦es personnelles est importante pour nous, mais n'oubliez pas qu'aucune
+la m¨¦thode de transmission sur Internet ou la m¨¦thode de stockage ¨¦lectronique est
+100% s¨¦curis¨¦. Bien que nous nous efforcions d'utiliser des moyens commercialement acceptables pour prot¨¦ger
+Vos donn¨¦es personnelles, nous ne pouvons garantir leur s¨¦curit¨¦ absolue.
+
+Confidentialit¨¦ des enfants  
+-------------------
+
+Notre Service ne s'adresse pas aux personnes de moins de 13 ans. Nous ne le savons pas sciemment
+collecter des informations personnelles identifiables aupr¨¨s de toute personne de moins de 13 ans.
+Si vous ¨ºtes un parent ou un tuteur et que vous savez que votre enfant a fourni
+Nous avons des donn¨¦es personnelles, veuillez nous contacter. Si nous prenons conscience que nous avons
+collect¨¦ des donn¨¦es personnelles aupr¨¨s de toute personne de moins de 13 ans sans v¨¦rification
+du consentement parental, nous prenons des mesures pour supprimer ces informations de notre
+les serveurs.
+
+Si nous devons nous fier au consentement comme base l¨¦gale pour le traitement de vos informations
+et Votre pays exige le consentement d'un parent. Nous pouvons exiger le consentement de votre parent.
+consentement avant de collecter et d¡¯utiliser ces informations.
+
+Liens vers d'autres sites Web  
+-----------------------
+
+Notre Service peut contenir des liens vers d'autres sites Web qui ne sont pas exploit¨¦s par Nous.
+Si vous cliquez sur un lien tiers, vous serez dirig¨¦ vers le site de ce tiers.
+site. Nous vous conseillons fortement de consulter la politique de confidentialit¨¦ de chaque site que vous
+visite.
+
+Nous n'avons aucun contr?le et n'assumons aucune responsabilit¨¦ quant au contenu, ¨¤ la confidentialit¨¦
+politiques ou pratiques de tout site ou service tiers.
+
+Modifications de cette politique de confidentialit¨¦  
+-------------------------------
+
+Nous pouvons mettre ¨¤ jour notre politique de confidentialit¨¦ de temps ¨¤ autre. Nous vous informerons de tout
+changements en publiant la nouvelle politique de confidentialit¨¦ sur cette page.
+
+Nous vous en informerons par e-mail et/ou par un avis bien visible sur notre service, avant
+jusqu'¨¤ ce que le changement entre en vigueur et mettez ¨¤ jour la date "Derni¨¨re mise ¨¤ jour" en haut
+de cette politique de confidentialit¨¦.
+
+Il vous est conseill¨¦ de consulter p¨¦riodiquement cette politique de confidentialit¨¦ pour tout changement.
+Les modifications apport¨¦es ¨¤ cette politique de confidentialit¨¦ entrent en vigueur lorsqu'elles sont publi¨¦es sur ce site.
+page.
+
+Contactez-nous  
+----------
+
+Si vous avez des questions concernant cette politique de confidentialit¨¦, vous pouvez nous contacter :
+
+  * Par email : andersongoumou10@gmail.com
+

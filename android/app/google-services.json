@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "650357033960",
+    "project_id": "locative-ee630",
+    "storage_bucket": "locative-ee630.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:650357033960:android:679252ffdc387a4821325d",
+        "android_client_info": {
+          "package_name": "com.example.locative"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCidLqDAJq5EaEe1aMtbBVTy2wdEyKsDcM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:650357033960:android:0755624f27b0bff221325d",
+        "android_client_info": {
+          "package_name": "com.locative"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCidLqDAJq5EaEe1aMtbBVTy2wdEyKsDcM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
